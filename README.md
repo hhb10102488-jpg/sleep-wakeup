@@ -18,8 +18,7 @@
 <h3>알고리즘</h3>
  
 
-<img width="462" height="662" alt="알고리즘" src="https://github.com/user-attachments/assets/df7863c7-bef7-4f03-8558-d5211b731ff9" />
-
+<img width="462" height="662" alt="알고리즘" src="https://github.com/user-attachments/assets/50490919-bd2b-4176-8de6-9bc8aabbf0b2" />
 
 
 
