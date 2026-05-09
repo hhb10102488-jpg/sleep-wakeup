@@ -18,8 +18,7 @@
 <h3>알고리즘</h3>
  
 
-<img width="462" height="662" alt="알고리즘" src="https://github.com/user-attachments/assets/50490919-bd2b-4176-8de6-9bc8aabbf0b2" />
-
+<img width="462" height="662" alt="제목 없는 다이어그램 drawio (1)" src="https://github.com/user-attachments/assets/41800155-2c81-4102-b198-86671bd606c8" />
 
 
 
