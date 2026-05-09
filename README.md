@@ -18,7 +18,8 @@
 알고리즘
  
 
-<img width="462" height="662" alt="알고리즘" src="https://github.com/user-attachments/assets/c5806800-75a3-4b96-963b-aa9e305c0ca2" />
+<img width="462" height="662" alt="알고리즘" src="https://github.com/user-attachments/assets/fa8a8500-baee-4159-a39b-2906e946946b" />
+
 
 
 
